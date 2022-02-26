@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.arithmetic</groupId>
-    <artifactId>demo</artifactId>
+    <artifactId>arithmetic</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>demo</name>
+    <name>arithmetic</name>
     <description>arithmetic</description>
 
     <properties>

@@ -6,10 +6,13 @@
     <modules>
         <module>zk</module>
         <module>GOFDesignPattern</module>
-        <module>test4rpc</module>
-        <module>springboot-grpc</module>
         <module>springboot-grpc_server</module>
         <module>springboot-grpc_client</module>
+        <module>springboot-grpc-lib</module>
+        <module>springSource</module>
+        <module>sharding-jdbc</module>
+        <module>springboot-config-demo</module>
+        <module>arithmetic</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -49,15 +52,6 @@
             </exclusions>
         </dependency>
     </dependencies>
-
-    <build>
-        <plugins>
-            <plugin>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-maven-plugin</artifactId>
-            </plugin>
-        </plugins>
-    </build>
 
     <repositories>
         <repository>
