@@ -4,11 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <packaging>pom</packaging>
     <modules>
-        <module>zk</module>
         <module>GOFDesignPattern</module>
-        <module>springboot-grpc_server</module>
-        <module>springboot-grpc_client</module>
-        <module>springboot-grpc-lib</module>
         <module>springSource</module>
         <module>sharding-jdbc</module>
         <module>springboot-config-demo</module>
